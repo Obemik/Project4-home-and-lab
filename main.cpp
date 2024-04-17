@@ -1,5 +1,5 @@
 #include <iostream>
-#include <windows.h> // Для використання SetConsoleTextAttribute
+#include <windows.h> 
 using namespace std;
 
 int main() {
